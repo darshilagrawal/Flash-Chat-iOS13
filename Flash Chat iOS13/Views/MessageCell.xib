@@ -18,8 +18,8 @@
                 <rect key="frame" x="0.0" y="0.0" width="789" height="210"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <stackView opaque="NO" contentMode="scaleAspectFit" misplaced="YES" alignment="top" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="XeE-ar-JOG">
-                        <rect key="frame" x="32" y="10" width="769" height="190"/>
+                    <stackView opaque="NO" contentMode="scaleAspectFit" alignment="top" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="XeE-ar-JOG">
+                        <rect key="frame" x="10" y="10" width="769" height="190"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="YouAvatar" translatesAutoresizingMaskIntoConstraints="NO" id="b7P-CM-slY">
                                 <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
